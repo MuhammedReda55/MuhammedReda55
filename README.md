@@ -27,8 +27,6 @@
   
   <a href="https://www.hackerrank.com/profile/mr7575436" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank - Abdullah Khaled" height="40" width="40" />
-    <a href="https://share.streamlit.io/user/abdullah-khaled0" target="_blank">
-    <img align="center" src="https://seeklogo.com/images/S/streamlit-logo-1A3B208AE4-seeklogo.com.png" alt="Streamlit - Abdullah Khaled" height="40" width="40" />
 </a>
 
   </a>
@@ -44,11 +42,11 @@
 
 ---
 
-#### 🏫 **Bachelor's Degree in Information Systems**
+#### 🏫 **Bachelor's Degree in Mechatronics Engineer**
 
 - ![University Badge](https://img.shields.io/badge/Beni_Suef_University-0055A4?style=flat&logo=university&logoColor=white)
-- ![GPA Badge](https://img.shields.io/badge/GPA-3.1/4.0-brightgreen)
-- ![Duration Badge](https://img.shields.io/badge/Duration-October%202021%20–%20July%202025-yellow)
+- ![GPA Badge](https://img.shields.io/badge/GPA-2.4/4.0-brightgreen)
+- ![Duration Badge](https://img.shields.io/badge/Duration-October%201921%20–%20Jan%202025-yellow)
 
 ---
 
