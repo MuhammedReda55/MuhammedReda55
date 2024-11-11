@@ -11,11 +11,11 @@
 ---
 
 ### 👨‍💻 About Me:
-- 📋 **Resume**: Check out My Resume [**here**]([https://docs.google.com/document/d/1_1tkH33oggXdtNtLS1ek_hHgC8YEHGkb/edit?usp=sharing&ouid=114996828737559694387&rtpof=true&sd=true](https://drive.google.com/file/d/1F0cbRR1xIkXyY-ZD0Ode9C57ALmK2haF/view?usp=sharing))  
+- 📋 **Resume**: Check out My Resume [**here**](https://drive.google.com/file/d/1F0cbRR1xIkXyY-ZD0Ode9C57ALmK2haF/view?usp=sharing)  
 - 💬 **Ask me about**: C#, ASP.NET, OOP, SQL Server,ASP.NET MVC, ASP.NET APIS 
 - 📫 **Reach me at**: [mr7575436@gmail.com](mr7575436@gmail.com) | **+20 1210199651**  
 - ⚡ **Fun fact**: I'm passionate about learning new things!  
-- 📊 **Tableau Projects**: Check them out [**here**](https://public.tableau.com/app/profile/abdullah.khaled)  
+
 
 ---
 
