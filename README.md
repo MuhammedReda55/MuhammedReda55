@@ -21,20 +21,18 @@
 
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/abdullah-khaled-0608a9236" target="_blank">
+  <a href="https://www.linkedin.com/in/mohamed-reda-331a21313?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Abdullah Khaled" height="40" width="40" />
   </a>
-  <a href="https://kaggle.com/abdullah7aled" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle - Abdullah Khaled" height="40" width="40" />
-  </a>
-  <a href="https://www.hackerrank.com/abdullah_7aled" target="_blank">
+  
+  <a href="https://www.hackerrank.com/profile/mr7575436" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank - Abdullah Khaled" height="40" width="40" />
     <a href="https://share.streamlit.io/user/abdullah-khaled0" target="_blank">
     <img align="center" src="https://seeklogo.com/images/S/streamlit-logo-1A3B208AE4-seeklogo.com.png" alt="Streamlit - Abdullah Khaled" height="40" width="40" />
 </a>
 
   </a>
-  <a href="https://wa.me/+201557504902" target="_blank">
+  <a href="https://wa.me/+201210199651" target="_blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp - Abdullah Khaled" height="40" width="40" />
   </a>
 </p>
