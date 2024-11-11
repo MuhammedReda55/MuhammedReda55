@@ -1,5 +1,5 @@
 ![MasterHead](https://verifybee.com/wp-content/uploads/2019/11/Header_7cc3c856f5b86ad98f1232bd17cecaf4.gif)
-<h1 align="center">💰Sales & 🎯Marketing Analyst</h1>
+<h1 align="center">.NET Developer</h1>
 
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/59c4c059594379.5a2805b23d18b.gif" />
 
@@ -11,8 +11,8 @@
 
 ### 👨‍💻 About Me:
 - 📋 **Resume**: Check out My Resume [**here**]([https://docs.google.com/document/d/1_1tkH33oggXdtNtLS1ek_hHgC8YEHGkb/edit?usp=sharing&ouid=114996828737559694387&rtpof=true&sd=true](https://drive.google.com/file/d/1F0cbRR1xIkXyY-ZD0Ode9C57ALmK2haF/view?usp=sharing))  
-- 💬 **Ask me about**: Machine Learning, Deep Learning, Data Science, Data Analytics  
-- 📫 **Reach me at**: [dev.abdullah.khaled@gmail.com](mailto:dev.abdullah.khaled@gmail.com) | **+20 1557504902**  
+- 💬 **Ask me about**: C#, ASP.NET, OOP, SQL Server,ASP.NET MVC, ASP.NET APIS 
+- 📫 **Reach me at**: [mr7575436@gmail.com](mr7575436@gmail.com) | **+20 1210199651**  
 - ⚡ **Fun fact**: I'm passionate about learning new things!  
 - 📊 **Tableau Projects**: Check them out [**here**](https://public.tableau.com/app/profile/abdullah.khaled)  
 
