@@ -1,5 +1,6 @@
 ![MasterHead](https://verifybee.com/wp-content/uploads/2019/11/Header_7cc3c856f5b86ad98f1232bd17cecaf4.gif)
-<h1 align="center">💰Sales & 🎯Marketing Analyst</h1>
+<h1 align="center">Hi, I'm Mohamed</h1>
+<h1 align="center">.NET Developer</h1>
 
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/59c4c059594379.5a2805b23d18b.gif" />
 
