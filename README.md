@@ -60,7 +60,7 @@
 **Internship at EraaSoft (.NET Trainee) ** · *on site*  
 **Sep 2024 - Fab 2025** (6 month)  
 
-**Key Responsibilities:**
+
 •	Worked as a .NET Developer, contributing to the development and maintenance of payment processing systems.
 •	Developed APIs and integrated payment gateways using .NET technologies.
 •	Utilized technologies such as ASP.NET Core, C#, SQL Server, and Entity Framework. Projects 
