@@ -2,7 +2,6 @@
   
   <img src="https://github.com/mohamedabusrea/mohamedabusrea/blob/master/profile-img.png" align="right" width="25%"/>
 
-I'm a software developer who is passionate about creating technology to elevate people and help new developers to find the right path. Some technologies I enjoy working with include C#, SQL Server, ASP .Net, MVC, Solid Principles, C++, C, Python.
 
 
 <h1 align="center">Hi, I'm Mohamed</h1>
@@ -15,6 +14,8 @@ I'm a software developer who is passionate about creating technology to elevate 
 </a>
     <a href="https://www.instagram.com/mohammed.reda14/profilecard/?igsh=M3lqMTVoa253ZXBt"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
   </p>
+  I'm a software developer who is passionate about creating technology to elevate people and help new developers to find the right path. Some technologies I enjoy working with include C#, SQL Server, ASP .Net, MVC, Solid Principles, C++, C, Python.
+
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=abdullah-khaled0&label=Profile%20views&color=0e75b6&style=flat" alt="abdullah-khaled0" /> 
