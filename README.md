@@ -17,9 +17,7 @@
   I'm a software developer who is passionate about creating technology to elevate people and help new developers to find the right path. Some technologies I enjoy working with include C#, SQL Server, ASP .Net, MVC, Solid Principles, C++, C, Python.
 
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=abdullah-khaled0&label=Profile%20views&color=0e75b6&style=flat" alt="abdullah-khaled0" /> 
-</p>
+
 
 ---
 
@@ -118,6 +116,34 @@ Utilized technologies such as ASP.NET MVC Core, C#, SQL Server, and Entity Frame
 <a href="http://t.me/@mohamedreda75" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20Reda-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 
 <a href="https://www.buymeacoffee.com/Mohamed-Reda" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/lato-orange.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+
+
+##### Languages I use
+
+![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
+![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
+![C#](https://img.shields.io/badge/C%23-%23239120?style=flat&logo=csharp&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
+![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
+![.NET](https://img.shields.io/badge/Back--End-512BD4?style=flat&logo=dotnet&logoColor=white)
+
+![MVC-.NETT](https://img.shields.io/badge/-512BD4?style=flat&logo=dotnet&logoColor=white)
+
+##### Some of the technologies I have worked with
+
+![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
+![SOLID-Principle](https://img.shields.io/badge/-FF6F00?style=flat&logo=arch-linux&logoColor=white)
+![OOP-Programming](https://img.shields.io/badge/-0078D7?style=flat&logo=code&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
+
+
+##### Some of my favorite open source projects
+
+[![E_Tickets](https://img.shields.io/badge/-E_Tickets-444444?style=flat&logo=Dark-Reader&logoColor=2f7485)](https://github.com/MuhammedReda55/E_Tickets)
+[![E_commerce](https://img.shields.io/badge/-E_commerce-444444?style=flat&logo=Dark-Reader&logoColor=2f7485)](https://github.com/MuhammedReda55/E-commerce)
 
 
 
