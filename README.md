@@ -10,17 +10,11 @@
 
 I'm a software developer who is passionate about creating technology to elevate people and help new developers to find the right path. Some technologies I enjoy working with include C#, SQL Server, ASP .Net, MVC, Solid Principles, C++, C, Python.
 
- - 🔭 I'm a software developer 
- - 🎓Recent Mechatronics graduate from Menoufia University.
- - 💬 Ask me about  Back End .NET, web, or literally anything!
- - :mailbox: You can reach me with the links below
-
-
 
 <h1 align="center">Hi, I'm Mohamed</h1>
 <h1 align="center">.NET Developer</h1>
 
-<img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/59c4c059594379.5a2805b23d18b.gif" />
+
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=abdullah-khaled0&label=Profile%20views&color=0e75b6&style=flat" alt="abdullah-khaled0" /> 
