@@ -1,4 +1,4 @@
-![MasterHead](https://verifybee.com/wp-content/uploads/2019/11/Header_7cc3c856f5b86ad98f1232bd17cecaf4.gif)
+
 <h1 align="center">Hi, I'm Mohamed</h1>
 <h1 align="center">.NET Developer</h1>
 
