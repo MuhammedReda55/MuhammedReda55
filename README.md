@@ -1,3 +1,21 @@
+<p align="center">
+    <a href="mr7575436@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836?style=flat&logo=gmail&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/mohamed-reda-331a21313/"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
+    <a href="https://www.facebook.com/share/1EkRUcuWC2/?mibextid=wwXIfr"><img src="https://img.shields.io/badge/facebook-%231877F2?style=flat&logo=facebook&logoColor=white">
+</a>
+    <a href="https://www.instagram.com/mohammed.reda14/profilecard/?igsh=M3lqMTVoa253ZXBt"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
+  </p>
+  
+  <img src="https://github.com/mohamedabusrea/mohamedabusrea/blob/master/profile-img.png" align="right" width="25%"/>
+
+I'm a software developer who is passionate about creating technology to elevate people and help new developers to find the right path. Some technologies I enjoy working with include C#, SQL Server, ASP .Net, MVC, Solid Principles, C++, C, Python.
+
+ - 🔭 I'm a software developer 
+ - 🎓Recent Mechatronics graduate from Menoufia University.
+ - 💬 Ask me about  Back End .NET, web, or literally anything!
+ - :mailbox: You can reach me with the links below
+
+
 
 <h1 align="center">Hi, I'm Mohamed</h1>
 <h1 align="center">.NET Developer</h1>
